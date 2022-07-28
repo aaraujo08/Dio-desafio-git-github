@@ -1,4 +1,4 @@
-# Dio-desafio-git/github
+# Desafio de Projeto sobre Git/GitUb da DIO
 Desafio de projeto para o primero repositorio no git/github
 
 
